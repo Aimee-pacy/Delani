@@ -6,11 +6,13 @@
 ## Setup.
 To get a local copy of the site:
 
-`git clone https://github.com/kamauvick/Delani-Studio.git`
+`git clone https://github.com/Aimee-pacy/Delani.git`
 
-`Extract` the cloned file.
+` or download zipped file`
 
-`cd` to Delani-Studio folder.
+`Extract` the zipped file.
+
+`cd` to Delani folder.
 
 *Launch* `index.html` file.
 
@@ -18,8 +20,8 @@ To get a local copy of the site:
 ## Behaviour Driven Development(BDD)
 | Inputs |  Description |
 | :---         |          ---: |
-| Name   | The users name. `eg Victor Waichigo`|
-| Email     | The users email. ``eg usermail@gmail.com``   |
+| Name   | The users name. `eg Aimee-pacy`|
+| Email     | The users email. ``eg example@gmail.com``   |
 | Message    | The message from the user.   |
 # Project Description:
 ### Delani Studio
@@ -38,8 +40,8 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 
 ##### Setup Instructions and Installation
 
-- Clone this repository to a location in your file system. `git clone https://github.com/Aimee-pacy/Akran.git`
-- Open terminal command line then navigate to the root folder of the application. `cd Akran`
+- Clone this repository to a location in your file system. `git clone https://github.com/Aimee-pacy/Delani.git`
+- Open terminal command line then navigate to the root folder of the application. `cd Delani`
 - Open `index.html` on your Browser or type code . in your Vs Code.
 
 ## Development
