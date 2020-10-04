@@ -27,7 +27,7 @@ body {
     top: 33%;
 }
 .h-text{
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .smaller-text{
     font-family: 'Ubuntu Mono', monospace;
@@ -45,9 +45,8 @@ body {
     background-size: cover;
     height: 668px;
 }
-#bounce {
-    animation: bounce 3s infinite;
-}
+
+
 
 @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {
