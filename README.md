@@ -3,10 +3,6 @@
 ### email: ishimwefique@gmail.com
 ### slack: Aimee Pacifique
 ### Tel: +250781449482
-[Check it out]()
-## Screenshot.
-<img src="https://github.com/kamauvick/Delani-Studio/blob/master/images/screenshot/shot.png?raw=true" width="1000">
-
 ## Setup.
 To get a local copy of the site:
 
