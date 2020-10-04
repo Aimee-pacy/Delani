@@ -48,9 +48,9 @@ $(function () {
     //Overlay images
 
     $('.port').hover(function(){
-        $('.porttext',this).slideToggle('slow');
+        $('.porttext',this).slideToggle('milliseconds');
      }, function(){
-        $('.porttext',this).slideToggle('slow');
+        $('.porttext',this).slideToggle('milliseconds');
      });
 
 
