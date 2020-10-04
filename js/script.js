@@ -50,7 +50,7 @@ $(function () {
     $('.port').hover(function(){
         $('.porttext',this).slideToggle('slow');
      }, function(){
-        $('.porttext',this).slideDown('slow');
+        $('.porttext',this).slideToggle('slow');
      });
 
 
