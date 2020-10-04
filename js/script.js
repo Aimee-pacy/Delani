@@ -32,7 +32,7 @@ $(function () {
     $(design, destext).on('click', function () {
         $('.des').slideDown();
         $(design).hide(500);
-        $(destext).animate({fontWeight:'normal',fontSize:'16px'})
+        $(destext).animate({fontWeight:'bolder',fontSize:'16px'})
     });
     $(development, devtext).on('click', function () {
         $('.dev').slideDown();
