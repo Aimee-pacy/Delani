@@ -153,13 +153,13 @@ input.error {
     max-width: 100%;
     height: auto;
 }
-.portimg {
+.port {
     float: right;
     position: relative;
     margin: 5px;
     /*color: #333;*/
 }
-.portimg .porttext {
+.port .porttext {
     display: none;
     opacity: 1;
     background-color:rgba(107, 97, 97, 0.6);
